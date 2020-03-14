@@ -1,3 +1,9 @@
+# Misc
+env.py
+*.jpg
+photo_archive/*
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
